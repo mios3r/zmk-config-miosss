@@ -1,0 +1,6 @@
+if SHIELD_MIOSSS
+
+config ZMK_KEYBOARD_NAME
+    default "miosss"
+
+endif

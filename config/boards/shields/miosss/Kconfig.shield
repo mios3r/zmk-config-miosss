@@ -1,0 +1,2 @@
+confg SHIELD_MIOSSS
+    def_bool $(shields_list_contains,miosss)
